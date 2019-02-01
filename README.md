@@ -1,6 +1,6 @@
 # Patrick Nagel Instagram - DEPRECATED
 
-A side project using the Instagram API that has since me depricated, design inspired by the 80's artist Patrick Nagel
+A side project using the Instagram API that has since me deprecated, design inspired by the 80's artist Patrick Nagel
 
 **Live demo:** [https://radtket.github.io/patrick-nagel-instagram/](https://radtket.github.io/patrick-nagel-instagram/)
 
